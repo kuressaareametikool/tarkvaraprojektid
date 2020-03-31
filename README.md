@@ -2,14 +2,14 @@
 
 ## 4. projekt - MTÜ Emale kalkulaator
 
-[Joonas](https://github.com/CyberErol/housewives)
-[Erkki](https://github.com/ErkkiTa/MEM)
-[Markus](https://github.com/marksa302/kalkulaator2/)
-[Joel](https://github.com/aaleksei/Mtu-Emale)
-[Ingmar](https://github.com/MTUEma/Kalkulaator)
-[Kaspar](https://github.com/JPLaura/MTUE)
-[Siivi](https://github.com/Kerdo482/ema-kalkulaator)
-[Paula](https://github.com/Jentar/MTU-Emale)
+[Joonas](https://github.com/CyberErol/housewives)  
+[Erkki](https://github.com/ErkkiTa/MEM)  
+[Markus](https://github.com/marksa302/kalkulaator2/)  
+[Joel](https://github.com/aaleksei/Mtu-Emale)  
+[Ingmar](https://github.com/MTUEma/Kalkulaator)  
+[Kaspar](https://github.com/JPLaura/MTUE)  
+[Siivi](https://github.com/Kerdo482/ema-kalkulaator)  
+[Paula](https://github.com/Jentar/MTU-Emale)  
 
 [Õpetajad](https://github.com/andrus14/emale-kalkulaator)
 
