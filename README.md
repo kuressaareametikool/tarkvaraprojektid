@@ -1,4 +1,4 @@
-# Kuressaare Ametikooli tarkvaraprojketid
+# Kuressaare Ametikooli tarkvaraprojektid
 
 ## 4. projekt - MTÜ Emale kalkulaator
 
