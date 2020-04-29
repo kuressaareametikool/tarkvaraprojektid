@@ -1,5 +1,18 @@
 # Kuressaare Ametikooli tarkvaraprojektid
 
+## 5. projekt - Drillimise rakendus
+
+[Gen](https://github.com/vikatgen/ametikool-projekt-5)  
+[Uku](https://github.com/aliandrafreimann/M2ng)  
+[Karl Gregor](https://github.com/Kerdo482/5.projekt)  
+[Oliver](https://github.com/oliverluup/projektip-ev5)  
+[Alex](https://github.com/Nurmik/Projekt_5)  
+[Henry](https://github.com/HenrysHub/projekt-5)  
+[Robin](https://github.com/rrbyn/5-projekt)  
+[Ralf](https://dev.azure.com/ralfheinsoo/Projekt5)  
+
+[Õpetajad](https://github.com/andrus14/drillime)
+
 ## 4. projekt - MTÜ Emale kalkulaator
 
 [Joonas](https://github.com/CyberErol/housewives)  
