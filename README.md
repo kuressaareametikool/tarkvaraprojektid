@@ -4,7 +4,7 @@
 
 - [Markus Koost, Tony Sillart, Kristo Kaasik](https://github.com/markuskoost/UE4Lopuprojekt)
 - [Henry Lehtsi, Alex Nurmberg, Heinrich Mei, Aliandra Freimann](https://github.com/HenrysHub/veebileht)
-- [Gert Indrek Poljakov, Eerik Põld, Oliver Luup]()
+- [Gert Indrek Poljakov, Eerik Põld, Oliver Luup](https://github.com/doggolord/1-bit-Hero)
 
 ## TA-18
 
