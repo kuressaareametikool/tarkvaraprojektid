@@ -1,6 +1,10 @@
 # Kuressaare Ametikooli tarkvaraprojektid
 
-## 5. projekt - Drillimise rakendus
+## 2020/21
+
+## 2019/20
+
+### 5. projekt - Drillimise rakendus
 
 [Gen](https://github.com/vikatgen/ametikool-projekt-5)  
 [Uku](https://github.com/aliandrafreimann/M2ng)  
