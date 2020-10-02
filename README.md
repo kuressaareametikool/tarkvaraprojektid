@@ -4,16 +4,16 @@
 
 ### 1. projekt - Tahvli tunniplaani prototüüp
 
-[Hans-Kristjan](https://github.com/hanspavelson/tunniplaan)
-[Egle](https://github.com/ratsepmarkus/tunniplaan)
-[Robin](https://github.com/rrbyn/tunniplaanprojekt)
-[Martin](https://github.com/fs-s/TeamEZ)
-[Jennifer](https://github.com/Jentar/Tunniplaan)
-[Erol](https://github.com/CyberErol/AsusDellHP)
-[Karl Gregor](https://github.com/Swissgroover/see-tiim-vist)
-[Gen](https://github.com/vikatgen/Tahvel-UI)
-[Andrus](https://github.com/kasparkivi/fantastiline4)
-[Ralf](https://github.com/RalfHei/Tunniplaan)
+[Hans-Kristjan](https://github.com/hanspavelson/tunniplaan)  
+[Egle](https://github.com/ratsepmarkus/tunniplaan)  
+[Robin](https://github.com/rrbyn/tunniplaanprojekt)  
+[Martin](https://github.com/fs-s/TeamEZ)  
+[Jennifer](https://github.com/Jentar/Tunniplaan)  
+[Erol](https://github.com/CyberErol/AsusDellHP)  
+[Karl Gregor](https://github.com/Swissgroover/see-tiim-vist)  
+[Gen](https://github.com/vikatgen/Tahvel-UI)  
+[Andrus](https://github.com/kasparkivi/fantastiline4)  
+[Ralf](https://github.com/RalfHei/Tunniplaan)  
 
 ## 2019/20
 
