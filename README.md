@@ -2,6 +2,19 @@
 
 ## 2020/21
 
+### 1. projekt - Tahvli tunniplaani prototüüp
+
+[Hans-Kristjan](https://github.com/hanspavelson/tunniplaan)
+[Egle](https://github.com/ratsepmarkus/tunniplaan)
+[Robin](https://github.com/rrbyn/tunniplaanprojekt)
+[Martin](https://github.com/fs-s/TeamEZ)
+[Jennifer](https://github.com/Jentar/Tunniplaan)
+[Erol](https://github.com/CyberErol/AsusDellHP)
+[Karl Gregor](https://github.com/Swissgroover/see-tiim-vist)
+[Gen](https://github.com/vikatgen/Tahvel-UI)
+[Andrus](https://github.com/kasparkivi/fantastiline4)
+[Ralf](https://github.com/RalfHei/Tunniplaan)
+
 ## 2019/20
 
 ### 5. projekt - Drillimise rakendus
@@ -17,7 +30,7 @@
 
 [Õpetajad](https://github.com/andrus14/drillime)
 
-## 4. projekt - MTÜ Emale kalkulaator
+### 4. projekt - MTÜ Emale kalkulaator
 
 [Joonas](https://github.com/CyberErol/housewives)  
 [Erkki](https://github.com/ErkkiTa/MEM)  
@@ -30,7 +43,7 @@
 
 [Õpetajad](https://github.com/andrus14/emale-kalkulaator)
 
-## 3. projekt - Eelarvekalkulaator
+### 3. projekt - Eelarvekalkulaator
 
 [MTLRS](https://github.com/martintrumann/buget-calc)  
 [Pioneer](https://github.com/marksa302/Pioneer)  
@@ -43,7 +56,7 @@
 
 [Õpetajad](https://github.com/rrrrando/budgetcalc)
 
-## 2. projekt - Lemmikbändi veeb
+### 2. projekt - Lemmikbändi veeb
 
 [AC/DC](https://github.com/martintrumann/ac-cd-leht)  
 [Billie Eilish](https://github.com/marksa302/Billie-Eilish)  
@@ -54,7 +67,7 @@
 [Sleeping with Sirens](https://github.com/PaulaLebedev/SleepingwithSirens)  
 [Tommy Cash](https://github.com/Tuuletallaja/TommyCash)  
 
-## 1. projekt - Lemmikfilmi veeb
+### 1. projekt - Lemmikfilmi veeb
 
 [Matrix](https://github.com/martintrumann/film-webpage)  
 [The Pianist](https://github.com/marksa302/The-Pianist)  
