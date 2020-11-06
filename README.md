@@ -2,6 +2,15 @@
 
 ## 2020/21
 
+### 2. projekt - Tahvli tunniplaani prototüüp
+
+1 [Tiiu](https://github.com/tiiutuhkanen/tunniplaan_kaks)  
+2 [Karl Gregor](https://github.com/ratsepmarkus/Fest-Labs)  
+3 [Joonas Hendrik](https://github.com/JPLaura/Projekt_2-3)  
+4 [Robin](https://github.com/andravabar/Team4_Projekt2_2020)  
+5 [Karl-Mihkel](https://github.com/krlmhkl/tunniplaaniprojekt-tiim-v)  
+6 [Gen](https://github.com/TimTimDev/LocalHost)  
+
 ### 1. projekt - Tahvli tunniplaani prototüüp
 
 [Hans-Kristjan](https://github.com/hanspavelson/tunniplaan)  
