@@ -2,14 +2,19 @@
 
 ## 2020/21
 
+### 3.1 projekt TAK-20 - Lihtne mäng
+[Juicebox Clicker] (https://github.com/Janarkuusk/Juice_box_clicker)
+[Memory] (https://github.com/RasmusLing/drip-games)
+[Computer History Timeline Clicker] ()
+
 ### 2. projekt - Tahvli tunniplaani prototüüp
 
-1 [Tiiu](https://github.com/tiiutuhkanen/tunniplaan_kaks)  
-2 [Karl Gregor](https://github.com/ratsepmarkus/Fest-Labs)  
-3 [Joonas Hendrik](https://github.com/JPLaura/Projekt_2-3)  
-4 [Robin](https://github.com/andravabar/Team4_Projekt2_2020)  
-5 [Karl-Mihkel](https://github.com/krlmhkl/tunniplaaniprojekt-tiim-v)  
-6 [Gen](https://github.com/TimTimDev/LocalHost)  
+[Tiiu](https://github.com/tiiutuhkanen/tunniplaan_kaks)  
+[Karl Gregor](https://github.com/ratsepmarkus/Fest-Labs)  
+[Joonas Hendrik](https://github.com/JPLaura/Projekt_2-3)  
+[Robin](https://github.com/andravabar/Team4_Projekt2_2020)  
+[Karl-Mihkel](https://github.com/krlmhkl/tunniplaaniprojekt-tiim-v)  
+[Gen](https://github.com/TimTimDev/LocalHost)  
 
 ### 1. projekt - Tahvli tunniplaani prototüüp
 
