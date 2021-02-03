@@ -1,8 +1,9 @@
 # Kuressaare Ametikooli tarkvaraprojektid
 
 ## 2020/21
-[Joel](https://github.com/Joel-Pupart/node-project)  
 
+### 3.2 projekt TAK-19, TA-19, TA-20 - NodeJS klient-server rakendus
+[Joel](https://github.com/Joel-Pupart/node-project)  
 
 ### 3.1 projekt TAK-20 - Lihtne mäng
 [Juicebox Clicker](https://github.com/Janarkuusk/Juice_box_clicker)  
