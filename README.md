@@ -1,11 +1,13 @@
 # Kuressaare Ametikooli tarkvaraprojektid
 
 ## 2020/21
+[Joel](https://github.com/Joel-Pupart/node-project)  
+
 
 ### 3.1 projekt TAK-20 - Lihtne mäng
 [Juicebox Clicker](https://github.com/Janarkuusk/Juice_box_clicker)  
 [Memory](https://github.com/RasmusLing/drip-games)  
-[Computer History Timeline Clicker](https://github.com)  
+[Computer History Timeline Clicker](https://github.com/macuway/PC-Clicker)  
 
 ### 2. projekt - Tahvli tunniplaani prototüüp
 
