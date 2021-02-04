@@ -6,6 +6,7 @@
 [Joel](https://github.com/Joel-Pupart/node-project)  
 [Markus](https://github.com/ratsepmarkus/node-project)  
 [Karl-Mihkel Truu](https://github.com/Ekulina/node-project)  
+[Ralf](https://github.com/RalfHei/node-project)  
 
 ### 3.1 projekt TAK-20 - Lihtne mäng
 [Juicebox Clicker](https://github.com/Janarkuusk/Juice_box_clicker)  
