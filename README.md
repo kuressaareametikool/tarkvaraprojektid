@@ -12,8 +12,8 @@
 
 ### 3.1 projekt TAK-20 - Lihtne mäng
 [Juicebox Clicker](https://github.com/Janarkuusk/Juice_box_clicker)  
-[Memory](https://github.com/RasmusLing/drip-games)  
-[Computer History Timeline Clicker](https://github.com/macuway/PC-Clicker)  
+[Memory drip](https://github.com/RasmusLing/drip-games)  
+[PC Clicker](https://github.com/macuway/PC-Clicker)  
 
 ### 2. projekt - Tahvli tunniplaani prototüüp
 
