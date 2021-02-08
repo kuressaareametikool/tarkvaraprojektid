@@ -8,7 +8,7 @@
 [Karl-Mihkel](https://github.com/Ekulina/node-project)  
 [Ralf](https://github.com/RalfHei/node-project)  
 [Karl Gregor](https://github.com/Swissgroover/node-project-vr)  
-[Gen](https://github.com/vikatgen)
+[Gen](https://github.com/terx7/node-project)
 
 ### 3.1 projekt TAK-20 - Lihtne mäng
 [Juicebox Clicker](https://github.com/Janarkuusk/Juice_box_clicker)  
