@@ -2,6 +2,13 @@
 
 ## 2020/21
 
+### 4. projekt - Infoekraan muuseumile [Wiki](https://github.com/kuressaareametikool/tarkvaraprojektid/wiki/2020%E2%88%9521-PROJEKT-nr-4-%E2%80%92-Infoekraan-muuseumile)
+
+[Andrus](https://github.com/jasper-tambur/ProjektPlakat)  
+[Janek](https://github.com/ratsepmarkus/Fest-Labs)  
+[Rando](https://github.com/kuressaareametikool/p4-team-rando)  
+[Madis](https://github.com/karljame/PROJEKT-nr-4-Infoekraan-muuseumile-team-4)  
+
 ### 3.2 projekt TAK-19, TA-19, TA-20 - NodeJS klient-server rakendus
 [Joel](https://github.com/Joel-Pupart/node-project)  
 [Markus](https://github.com/ratsepmarkus/node-project)  
