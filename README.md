@@ -1,5 +1,16 @@
 # Kuressaare Ametikooli tarkvaraprojektid
 
+## 2021/22
+
+### 1. projekt - Webscraping. 
+
+[Auto24 info](https://github.com/oliverounaid/auto24bot)  
+[Aktsia liikumine](https://github.com/andravabar/WebCrawler2)  
+[Hinnavõrdlus](https://github.com/joonashendrik/grupitoo)  
+[Tahvli teavitused](https://github.com/erkitammeaid/Skyscraping)  
+[Maxima kohvi](https://github.com/erkitammeaid/Skyscraping)  
+[Graafikakaartide hinnavõrdlus](https://github.com/Eerikpoopuu/projekt/)  
+
 ## 2020/21
 
 ### 4. projekt - Infoekraan muuseumile [Wiki](https://github.com/kuressaareametikool/tarkvaraprojektid/wiki/2020%E2%88%9521-PROJEKT-nr-4-%E2%80%92-Infoekraan-muuseumile)
