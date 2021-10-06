@@ -7,7 +7,7 @@
 [Auto24 info](https://github.com/oliverounaid/auto24bot)  
 [Aktsia liikumine](https://github.com/andravabar/WebCrawler2)  
 [Hinnavõrdlus](https://github.com/joonashendrik/grupitoo)  
-[Tahvli teavitused](https://github.com/erkitammeaid/Skyscraping)  
+[Tahvli teavitused](https://github.com/kennethlember/tahvel-teavitus)  
 [Maxima kohvi](https://github.com/erkitammeaid/Skyscraping)  
 [Graafikakaartide hinnavõrdlus](https://github.com/Eerikpoopuu/projekt/)  
 
