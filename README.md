@@ -2,7 +2,14 @@
 
 ## 2021/22
 
-### 1. projekt - Webscraping. 
+### 2. projekt - Portfolio [Wiki](https://github.com/kuressaareametikool/tarkvaraprojektid/wiki/2021%E2%88%9522-PROJEKT-nr-2-%E2%80%92-Portfolio) 
+
+[Elon Musk](https://github.com/siily15/Team_2_EM)  
+[Navitrolla](https://github.com/carlostuuling/projekt-2)  
+[Jänku Juss](https://github.com/erkitammeaid/Portfoolio)  
+[Johnny Depp](https://github.com/jasper-tambur/portfoolioprojekt)  
+
+### 1. projekt - Webscraping 
 
 [Auto24 info](https://github.com/oliverounaid/auto24bot)  
 [Aktsia liikumine](https://github.com/andravabar/WebCrawler2)  
