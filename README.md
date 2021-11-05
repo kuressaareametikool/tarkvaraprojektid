@@ -9,6 +9,11 @@
 [Jänku Juss](https://github.com/erkitammeaid/Portfoolio)  
 [Johnny Depp](https://github.com/jasper-tambur/portfoolioprojekt)  
 [Shrek](https://github.com/karljame/Website)  
+[Miki-Hiir](https://github.com/krlmhkl/projekt-portfolio)  
+[Ryan Reynolds](https://github.com/terx7/team3-portfolio)  
+[team4](https)  
+[team6](https)  
+[team7](https)  
 
 
 ### 1. projekt - Webscraping 
