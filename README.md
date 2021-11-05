@@ -13,7 +13,7 @@
 [Ryan Reynolds](https://github.com/terx7/team3-portfolio)  
 [Hayao Miyazaki](https://github.com/karlerik100/grupit-2)  
 [Syd Mead](https://github.com/Metsaline/portfolio_projekt_4)  
-[Billa Gates](https://github.com/AlexVermil/Tiim6)  
+[Bill Gates](https://github.com/AlexVermil/Tiim6)  
 
 
 ### 1. projekt - Webscraping 
