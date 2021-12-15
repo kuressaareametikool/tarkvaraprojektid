@@ -4,12 +4,12 @@
 
 ### 2. projekt - Portfolio [Wiki](https://github.com/kuressaareametikool/tarkvaraprojektid/wiki/2021%E2%88%9522-PROJEKT-nr-3-%E2%80%92-Virtuaalne-instrument) 
 
+[Kallas](https://github.com/ZL-I/Iani-pill) 
+[Mattias](https://github.com/Mattias007/virtual_instrument__team2)  
+[asdf](asdf). 
 [Gerli](https://github.com/carlostuuling/instrument)  
-[asdf](asdf)  
-[asdf](asdf)  
-[asdf](asdf)  
-[asdf](asdf)  
-[asdf](asdf)   
+[Rainis](https://github.com/FluffyQuake/Team4)  
+[Terje](https://github.com/Frappyy/tiim-5)  
 
 
 ### 2. projekt - Portfolio [Wiki](https://github.com/kuressaareametikool/tarkvaraprojektid/wiki/2021%E2%88%9522-PROJEKT-nr-2-%E2%80%92-Portfolio) 
