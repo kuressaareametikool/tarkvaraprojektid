@@ -7,9 +7,9 @@
 [Kallas](https://github.com/ZL-I/Iani-pill)  
 [Mattias](https://github.com/Mattias007/virtual_instrument__team2)  
 [Merlin](https://github.com/merlinpraksi/teenies-projekt)  
-[Gerli](https://github.com/carlostuuling/instrument)  
 [Rainis](https://github.com/FluffyQuake/Team4)  
 [Terje](https://github.com/Frappyy/tiim-5)  
+[Gerli](https://github.com/carlostuuling/instrument)  
 
 
 ### 2. projekt - Portfolio [Wiki](https://github.com/kuressaareametikool/tarkvaraprojektid/wiki/2021%E2%88%9522-PROJEKT-nr-2-%E2%80%92-Portfolio) 
