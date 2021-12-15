@@ -4,7 +4,7 @@
 
 ### 2. projekt - Portfolio [Wiki](https://github.com/kuressaareametikool/tarkvaraprojektid/wiki/2021%E2%88%9522-PROJEKT-nr-3-%E2%80%92-Virtuaalne-instrument) 
 
-[Kallas](https://github.com/ZL-I/Iani-pill) 
+[Kallas](https://github.com/ZL-I/Iani-pill)  
 [Mattias](https://github.com/Mattias007/virtual_instrument__team2)  
 [asdf](asdf)  
 [Gerli](https://github.com/carlostuuling/instrument)  
