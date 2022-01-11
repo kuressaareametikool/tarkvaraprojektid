@@ -26,7 +26,7 @@
 [Bill Gates](https://github.com/AlexVermil/Tiim6)  
 
 
-### 1. projekt - Webscraping 
+### 1. projekt - Webscraping [Tiimid](https://docs.google.com/spreadsheets/d/18hTMi6Z75iL86aXICUWnlfvzCA2ZpunK8muOwuoYrXE/edit)
 
 [Auto24 info](https://github.com/oliverounaid/auto24bot)  
 [Aktsia liikumine](https://github.com/andravabar/WebCrawler2)  
