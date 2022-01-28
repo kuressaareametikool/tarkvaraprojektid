@@ -2,6 +2,14 @@
 
 ## 2021/22
 
+### 4. projekt - Energiahäkk [Wiki](https://github.com/kuressaareametikool/tarkvaraprojektid/wiki/2021%E2%88%9522-PROJEKT-nr-4-%E2%80%92-Energiah%C3%A4kk) 
+
+[Oliver](https://github.com/oliverounaid/energyhack-project/)  
+[Riivo](https://github.com/jakindl/energia)  
+[Terje](https://github.com/terjevolke/elektriapi)  
+[Silja](https://github.com/rainistiirik23/Energiahakk-Team3)  
+
+
 ### 3. projekt - Instrument [Wiki](https://github.com/kuressaareametikool/tarkvaraprojektid/wiki/2021%E2%88%9522-PROJEKT-nr-3-%E2%80%92-Virtuaalne-instrument) 
 
 [Kallas](https://github.com/ZL-I/Iani-pill)  
