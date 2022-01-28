@@ -8,6 +8,7 @@
 [Riivo](https://github.com/jakindl/energia)  
 [Terje](https://github.com/terjevolke/elektriapi)  
 [Silja](https://github.com/rainistiirik23/Energiahakk-Team3)  
+[KIG-21](https://www.figma.com/file/7UNGcNZwvcKpBoJFzsn3MC/elekter-on%2Foff-grid?node-id=39%3A377)
 
 
 ### 3. projekt - Instrument [Wiki](https://github.com/kuressaareametikool/tarkvaraprojektid/wiki/2021%E2%88%9522-PROJEKT-nr-3-%E2%80%92-Virtuaalne-instrument) 
