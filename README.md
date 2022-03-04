@@ -4,14 +4,14 @@
 
 ### 5. projekt - Infosüsteemi analüüs [Wiki](https://github.com/kuressaareametikool/tarkvaraprojektid/wiki/2021%E2%88%9522-PROJEKT-nr-5-%E2%80%92-Planeerimine) 
 
-[Riivo](https://github.com/oliverounaid/tarkvaraanalyys)  
-[Silja](https://github.com/rainistiirik23/Grupp2--projekti-analuus)  
-[Jana](https://github.com/helenrei/team3-discs/)  
-[asdf](https)  
-[Olavi](https://github.com/tanakimees/2022Projekt-peAndmeteAnal-s)  
-[Karl Erik](https://github.com/karlerik100/2022-PROJEKT-nr-5/wiki/2022-PROJEKT-nr-5)  
-[asdf](https)  
-[Kätlin](https://github.com/angsuuu/Project-5---Team-8)  
+[Kasutatud DVD vahetamine](https://github.com/oliverounaid/tarkvaraanalyys)  
+[Diski ketaste laenutus](https://github.com/rainistiirik23/Grupp2--projekti-analuus)  
+[Diski ketaste laenutus](https://github.com/helenrei/team3-discs/)  
+[Kodutute loomade info](https://github.com/GendroU/andmebaas)  
+[Elektroonika rent](https://github.com/tanakimees/2022Projekt-peAndmeteAnal-s)  
+[Twitchi laadne rakendus](https://github.com/karlerik100/2022-PROJEKT-nr-5/wiki/2022-PROJEKT-nr-5)  
+[Uudised CMS](https://github.com/maq30/Back-End-Projekt-Andmebaasid/wiki/Uudiste-lehek%C3%BClg)  
+[Lao infosüsteem](https://github.com/angsuuu/Project-5---Team-8)  
 
 ### 4. projekt - Energiahäkk [Wiki](https://github.com/kuressaareametikool/tarkvaraprojektid/wiki/2021%E2%88%9522-PROJEKT-nr-4-%E2%80%92-Energiah%C3%A4kk) 
 
