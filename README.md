@@ -2,7 +2,7 @@
 
 ## 2021/22
 
-### 4. projekt - Energiahäkk [Wiki](https://github.com/kuressaareametikool/tarkvaraprojektid/wiki/2021%E2%88%9522-PROJEKT-nr-5-%E2%80%92-Planeerimine) 
+### 5. projekt - Infosüsteemi analüüs [Wiki](https://github.com/kuressaareametikool/tarkvaraprojektid/wiki/2021%E2%88%9522-PROJEKT-nr-5-%E2%80%92-Planeerimine) 
 
 [asdf](https)  
 [Silja](https://github.com/rainistiirik23/Grupp2--projekti-analuus)  
