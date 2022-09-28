@@ -4,12 +4,12 @@
 
 ### 1. projekt - Hariduslik rakendus [Wiki](https://github.com/kuressaareametikool/tarkvaraprojektid/wiki/2022%E2%88%9523-PROJEKT-nr-1-%E2%80%92-Hariduslik-m%C3%A4ng%E2%88%95rakendus) 
 
-[Morse õppimine]()  
-[Tähtede õpiimine]()  
-[Maailma riikide õppimine]()  
-[Kella õppimine]()  
-[Maailma riikide õppimine]()  
-[Kella õppimine]()  
+[Morse äpp](https://github.com/oliverounaid/steampunk-morse)  
+[Tähtede õppimine]()  
+[Maailma riigid](https://github.com/merilyntohv/europe-countries-project)  
+[Kella äpp]()  
+[GeoBattle](https://github.com/olevkuris/maailm)  
+[Kella äpp]()  
 
 ## 2021/22
 
