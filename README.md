@@ -7,7 +7,7 @@
 [Morse äpp](https://github.com/oliverounaid/steampunk-morse)  
 [Tähtede õppimine](https://github.com/Maarma/tahed-numbrid)  
 [Maailma riigid](https://github.com/merilyntohv/europe-countries-project)  
-[Kella äpp]()  
+[Kella äpp](https://github.com/Eerikpoopuu/kellagang)  
 [GeoBattle](https://github.com/olevkuris/maailm)  
 [Kella äpp](https://github.com/nekocats/learntime)  
 
