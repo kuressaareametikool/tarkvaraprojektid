@@ -2,6 +2,17 @@
 
 ## 2022/23
 
+### 1. projekt - Ametikool 100 [Wiki](https://github.com/kuressaareametikool/tarkvaraprojektid/wiki/2022%E2%88%9523-PROJEKT-nr-2-Ametikool-100) 
+
+[99 Problems, but ladys aint one] (https://github.com/GendroU/Ametikool-)
+[Nuggetts] (https://github.com/Aren4A/KAK-Portfoolio)
+[Evert ja 2 draakonit] (https://github.com/Mannicoon/Ametikool-100)
+[FluffyQuake] (https://github.com/FluffyQuake/Tiim4-veebisait)
+[Mister McLoho] (https://github.com/RomelloLasn/tiim-5.git)
+[Freddy and the Krugers] (https://github.com/freduard/2022-projekt-ryhm2/tree/main)
+[Global President Raiko McSuperman] (https://github.com/raikotoomsalu/projekt--ametikooli-portfoolio)
+[Aavik] (https://github.com/sander-aleks/KAK100Portfolio)
+
 ### 1. projekt - Hariduslik rakendus [Wiki](https://github.com/kuressaareametikool/tarkvaraprojektid/wiki/2022%E2%88%9523-PROJEKT-nr-1-%E2%80%92-Hariduslik-m%C3%A4ng%E2%88%95rakendus) 
 
 [Morse äpp](https://github.com/oliverounaid/steampunk-morse)  
