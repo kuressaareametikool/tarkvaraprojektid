@@ -4,7 +4,7 @@
 
 ### 1. projekt - Ametikool 100 [Wiki](https://github.com/kuressaareametikool/tarkvaraprojektid/wiki/2022%E2%88%9523-PROJEKT-nr-2-Ametikool-100) 
 
-[99 Problems, but ladys aint one](https://github.com/GendroU/Ametikool-)  
+[99 Problems, but ladys aint one](https://github.com/GendroU/Ametikool-100)  
 [Nuggetts](https://github.com/Aren4A/KAK-Portfoolio)  
 [Evert ja 2 draakonit](https://github.com/Mannicoon/Ametikool-100)  
 [FluffyQuake](https://github.com/FluffyQuake/Tiim4-veebisait)  
