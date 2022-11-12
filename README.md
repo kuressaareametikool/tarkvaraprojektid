@@ -2,7 +2,7 @@
 
 ## 2022/23
 
-### 1. projekt - Ametikool 100 [Wiki](https://github.com/kuressaareametikool/tarkvaraprojektid/wiki/2022%E2%88%9523-PROJEKT-nr-2-Ametikool-100) 
+### 2. projekt - Ametikool 100 [Wiki](https://github.com/kuressaareametikool/tarkvaraprojektid/wiki/2022%E2%88%9523-PROJEKT-nr-2-Ametikool-100) 
 
 [99 Problems, but ladys aint one](https://github.com/GendroU/Ametikool-100)  
 [Nuggetts](https://github.com/Aren4A/KAK-Portfoolio)  
