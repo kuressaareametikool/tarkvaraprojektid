@@ -2,6 +2,10 @@
 
 ## 2022/23
 
+### 3. projekt - Tuturutuu-tutu-tuu! First Lego League! 🤖
+
+[Tulemused](https://docs.google.com/spreadsheets/d/1p2X8QVGG0njgmsAJ8IlzOOa-LmOjSSpn5ozb9X6BLY8/preview#gid=26925434)
+
 ### 2. projekt - Ametikool 100 [Wiki](https://github.com/kuressaareametikool/tarkvaraprojektid/wiki/2022%E2%88%9523-PROJEKT-nr-2-Ametikool-100) 
 
 [99 Problems, but ladys aint one](https://github.com/GendroU/Ametikool-100)  
