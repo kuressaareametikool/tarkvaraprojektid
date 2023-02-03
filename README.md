@@ -5,7 +5,7 @@
 ### 5. projekt - Ä-21 ja TA-21 ühisprojekt
 [Kooliraha](https://github.com/SocialMediaStar/Kohkur)  
 [Broneerimissüsteem](https://github.com/KatlinMaidle/Broneerimiss-steem)  
-[Ronimissein](https://github.com/raknar4000/Rajalooja))  
+[Ronimissein](https://github.com/raknar4000/Rajalooja)  
 [OtsiIT](https://github.com/Kristanna/projektip2ev_otsit)  
 
 ### 4. projekt - KIG & TA-21 ühisprojekt
