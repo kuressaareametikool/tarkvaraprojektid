@@ -3,12 +3,16 @@
 ## 2022/23
 
 ### 5. projekt - Ä-21 ja TA-21 ühisprojekt
-[Kooliraha](https://github.com/SocialMediaStar/Kohkur)
-[Broneerimissüsteem](https://github.com/KatlinMaidle/Broneerimiss-steem)
-[Ronimissein]()
-[OtsiIT]()
+[Kooliraha](https://github.com/SocialMediaStar/Kohkur)  
+[Broneerimissüsteem](https://github.com/KatlinMaidle/Broneerimiss-steem)  
+[Ronimissein]()  
+[OtsiIT]()  
 
 ### 4. projekt - KIG & TA-21 ühisprojekt
+[Poppins]  
+[Meelespea]  
+[Käpadok]  
+[Drop'n'Trip]  
 
 ### 3. projekt - Tuturutuu-tutu-tuu! First Lego League! 🤖
 
