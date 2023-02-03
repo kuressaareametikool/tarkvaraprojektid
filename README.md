@@ -5,14 +5,14 @@
 ### 5. projekt - Ä-21 ja TA-21 ühisprojekt
 [Kooliraha](https://github.com/SocialMediaStar/Kohkur)  
 [Broneerimissüsteem](https://github.com/KatlinMaidle/Broneerimiss-steem)  
-[Ronimissein]()  
-[OtsiIT]()  
+[Ronimissein](https://github.com/raknar4000/Rajalooja))  
+[OtsiIT](https://github.com/Kristanna/projektip2ev_otsit)  
 
 ### 4. projekt - KIG & TA-21 ühisprojekt
-[Poppins]()  
+[Poppins](https://github.com/kuressaareametikool/poppins)  
 [Meelespea]()  
 [Käpadok]()  
-[Drop'n'Trip]()  
+[Drop & Trip](https://github.com/kuressaareametikool/kig-dropntrip)  
 
 ### 3. projekt - Tuturutuu-tutu-tuu! First Lego League! 🤖
 
