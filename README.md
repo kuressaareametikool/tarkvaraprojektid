@@ -9,10 +9,10 @@
 [OtsiIT]()  
 
 ### 4. projekt - KIG & TA-21 ühisprojekt
-[Poppins]  
-[Meelespea]  
-[Käpadok]  
-[Drop'n'Trip]  
+[Poppins]()  
+[Meelespea]()  
+[Käpadok]()  
+[Drop'n'Trip]()  
 
 ### 3. projekt - Tuturutuu-tutu-tuu! First Lego League! 🤖
 
