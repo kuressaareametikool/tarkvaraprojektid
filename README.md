@@ -8,7 +8,7 @@
 [Ronimissein](https://github.com/raknar4000/Rajalooja)  
 [OtsiIT](https://github.com/Kristanna/projektip2ev_otsit)  
 
-### 4. projekt - KIG & TA-22 ühisprojekt
+### 4. projekt - KIG-21 & TA-22 ühisprojekt
 [Poppins](https://github.com/kuressaareametikool/poppins)  
 [Meelespea]()  
 [Käpadok]()  
