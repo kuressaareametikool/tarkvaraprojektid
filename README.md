@@ -10,7 +10,7 @@
 
 ### 4. projekt - KIG-21 & TA-22 ühisprojekt
 [Poppins](https://github.com/kuressaareametikool/poppins)  
-[Meelespea]()  
+[Meelespea](https://github.com/aliinS/Meelespea)  
 [Käpadok]()  
 [Drop & Trip](https://github.com/kuressaareametikool/kig-dropntrip)  
 
