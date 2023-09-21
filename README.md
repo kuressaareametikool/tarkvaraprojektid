@@ -2,6 +2,25 @@
 
 ## 2022/23
 
+### 1. projekt - Prügi sorteerimine / Beebi ja väikelapse esmaabi
+[Projekti kirjeldus](https://github.com/kuressaareametikool/tarkvaraprojektid/files/12681218/Projekti.kirjeldus.pdf)  
+[27 DOs and DON’Ts for Taking Care of Baby](https://blog.weespring.com/27-dos-donts-parents-taking-care-baby/)  
+[Projekti grupid](https://github.com/kuressaareametikool/tarkvaraprojektid/files/12681163/Projekti.grupid.pdf)  
+
+#### Prügi
+[Grupp 2](https://github.com/sander-aleks/Grupp2-prygi)  
+[Grupp 5](https://github.com/parnojaaxel/Team5)  
+[Grupp 6](https://github.com/MikkMaltis/2023-9.20.2023-projekt)  
+[Grupp 1](https://github.com/4avik/prygi_sort_1)  
+[Grupp 9](https://github.com/Matu16/prygi)  
+
+#### Beebi
+[Grupp 3](https://github.com/markheinmets/Beeeeeebid)  
+[Grupp 4](https://github.com/lebra2/childFirstAid)  
+[Grupp 8](https://github.com/R0binj0/grupp-8)  
+
+## 2022/23
+
 ### 5. projekt - Ä-21 ja TA-21 ühisprojekt
 [Kooliraha](https://github.com/SocialMediaStar/Kohkur)  
 [Broneerimissüsteem](https://github.com/KatlinMaidle/Broneerimiss-steem)  
