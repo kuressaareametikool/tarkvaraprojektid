@@ -12,7 +12,7 @@
 [Grupp 5](https://github.com/parnojaaxel/Team5)  
 [Grupp 6](https://github.com/MikkMaltis/2023-9.20.2023-projekt)  
 [Grupp 1](https://github.com/4avik/prygi_sort_1)  
-[Grupp 9](https://github.com/EvertKa/prygi1)  
+[Grupp 9](https://github.com/EvertKa/prygi2)  
 
 #### Beebi
 [Grupp 3](https://github.com/markheinmets/Beeeeeebid)  
