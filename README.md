@@ -8,6 +8,7 @@
 [Avatar](https://github.com/germovaa/grupp-9)  
 [Titanic](https://github.com/araamat/elevandid)  
 [Shrek 1](https://github.com/4avik/FIlmiprojekt/tree/main)  
+[The Dark Knight](https://github.com/markheinmets/Grupp-4)  
 
 ### 1. projekt - Prügi sorteerimine / Beebi ja väikelapse esmaabi
 [Projekti kirjeldus](https://github.com/kuressaareametikool/tarkvaraprojektid/files/12681218/Projekti.kirjeldus.pdf)  
