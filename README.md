@@ -5,6 +5,7 @@
 ### 2. projekt - Filmi veeb [Tiimid](https://docs.google.com/spreadsheets/d/10GSNuPB-OAkMAhV4cfPaxdO1CII_ht6bXXZ_AZ3rkKI/edit?usp=sharing)
 [Avatar](https://github.com/germovaa/grupp-9)  
 [Titanic](https://github.com/araamat/elevandid)  
+[Shrek 1](https://github.com/4avik/FIlmiprojekt/tree/main)  
 
 ### 1. projekt - Prügi sorteerimine / Beebi ja väikelapse esmaabi
 [Projekti kirjeldus](https://github.com/kuressaareametikool/tarkvaraprojektid/files/12681218/Projekti.kirjeldus.pdf)  
