@@ -2,8 +2,9 @@
 
 ## 2022/23
 
-### 2. projekt - Filmi veeb
+### 2. projekt - Filmi veeb [Tiimid](https://docs.google.com/spreadsheets/d/10GSNuPB-OAkMAhV4cfPaxdO1CII_ht6bXXZ_AZ3rkKI/edit?usp=sharing)
 [Avatar](https://github.com/germovaa/grupp-9)  
+[Titanic](https://github.com/araamat/elevandid)  
 
 ### 1. projekt - Prügi sorteerimine / Beebi ja väikelapse esmaabi
 [Projekti kirjeldus](https://github.com/kuressaareametikool/tarkvaraprojektid/files/12681218/Projekti.kirjeldus.pdf)  
