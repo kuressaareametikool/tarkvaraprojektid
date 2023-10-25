@@ -10,6 +10,7 @@
 [Shrek 1](https://github.com/4avik/FIlmiprojekt/tree/main)  
 [The Dark Knight](https://github.com/markheinmets/Grupp-4)  
 [Oppenheimer](https://github.com/1kert/project)  
+[Spiderman](https://github.com/ZL-I/spiderman)  
 
 ### 1. projekt - Prügi sorteerimine / Beebi ja väikelapse esmaabi
 [Projekti kirjeldus](https://github.com/kuressaareametikool/tarkvaraprojektid/files/12681218/Projekti.kirjeldus.pdf)  
