@@ -5,7 +5,7 @@
 ### 2. projekt - Filmi veeb [Tiimid](https://docs.google.com/spreadsheets/d/10GSNuPB-OAkMAhV4cfPaxdO1CII_ht6bXXZ_AZ3rkKI/edit?usp=sharing)
 #### [Lühikirjeldus](https://chestnut-canidae-636.notion.site/Project-management-e29e0a4d04784f5ea5c157299f23411d)  
 
-[Avatar](https://github.com/germovaa/grupp-9)  
+[Matrix](https://github.com/germovaa/grupp-9)  
 [Titanic](https://github.com/araamat/elevandid)  
 [Shrek 1](https://github.com/4avik/FIlmiprojekt/tree/main)  
 [The Dark Knight](https://github.com/markheinmets/Grupp-4)  
