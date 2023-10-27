@@ -13,6 +13,7 @@
 [Spiderman](https://github.com/ZL-I/spiderman)  
 [Saw X](https://github.com/robinmihkelson/Ametikooli-projekt-grupp-2-2023)  
 [Gran Turismo](https://github.com/udekas/grupp-7)  
+[Home Alone](https://discgolfmetrix.com/2790461)  
 
 ### 1. projekt - Prügi sorteerimine / Beebi ja väikelapse esmaabi
 [Projekti kirjeldus](https://github.com/kuressaareametikool/tarkvaraprojektid/files/12681218/Projekti.kirjeldus.pdf)  
