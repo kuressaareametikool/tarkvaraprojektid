@@ -4,6 +4,8 @@
 
 ### 3. projekt - Tuturutuu-tutu-tuu! First Lego League! 🤖
 [FLL Eesti](https://www.firstlegoleague.ee/challenge/hooajad/2023-2024-masterpiece/)
+* LEGO SPIKE Education  
+* EV3 Classroom Mindstorm  
 
 ### 2. projekt - Filmi veeb [Tiimid](https://docs.google.com/spreadsheets/d/10GSNuPB-OAkMAhV4cfPaxdO1CII_ht6bXXZ_AZ3rkKI/edit?usp=sharing)
 #### [Lühikirjeldus](https://chestnut-canidae-636.notion.site/Project-management-e29e0a4d04784f5ea5c157299f23411d)  
