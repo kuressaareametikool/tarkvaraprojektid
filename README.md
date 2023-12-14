@@ -9,9 +9,9 @@
 * EV3 Classroom App
 * [NXT Software](https://education.lego.com/en-us/downloads/retiredproducts/nxt/software/)
 Esialgne ajakava
-* 1. raund - kuni N 14.30
-* 2. raund - R ennelõuna
-* 3. raund - R pärastlõuna
+1. raund - kuni N 14.30
+2. raund - R ennelõuna
+3. raund - R pärastlõuna
 
 ### 2. projekt - Filmi veeb [Tiimid](https://docs.google.com/spreadsheets/d/10GSNuPB-OAkMAhV4cfPaxdO1CII_ht6bXXZ_AZ3rkKI/edit?usp=sharing)
 #### [Lühikirjeldus](https://chestnut-canidae-636.notion.site/Project-management-e29e0a4d04784f5ea5c157299f23411d)  
