@@ -3,6 +3,7 @@
 ## 2022/23
 
 ### 3. projekt - Tuturutuu-tutu-tuu! First Lego League! 🤖
+[Tulemused](https://docs.google.com/spreadsheets/d/1L3JdTL3Pnc1dXB680jFmYBx3r_o5eXPGDNFgQMLO9TM/edit#gid=0)  
 [FLL Eesti](https://www.firstlegoleague.ee/challenge/hooajad/2023-2024-masterpiece/)
 * LEGO SPIKE Education  
 * EV3 Classroom App  
