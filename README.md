@@ -4,11 +4,12 @@
 
 ### 3. projekt - Tuturutuu-tutu-tuu! First Lego League! 🤖
 [Tulemused](https://docs.google.com/spreadsheets/d/1L3JdTL3Pnc1dXB680jFmYBx3r_o5eXPGDNFgQMLO9TM/preview#gid=26925434)  
-[FLL Eesti](https://www.firstlegoleague.ee/challenge/hooajad/2023-2024-masterpiece/)
+[FLL Eesti](https://www.firstlegoleague.ee/challenge/hooajad/2023-2024-masterpiece/)  
+#### Tarkvara
 * LEGO SPIKE Education  
 * EV3 Classroom App
 * [NXT Software](https://education.lego.com/en-us/downloads/retiredproducts/nxt/software/)
-Esialgne ajakava
+#### Esialgne ajakava
 1. raund - kuni N 14.30
 2. raund - R ennelõuna
 3. raund - R pärastlõuna
