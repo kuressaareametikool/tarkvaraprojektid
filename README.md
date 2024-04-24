@@ -4,6 +4,23 @@
 
 ### 5. projekt - Disainisuuna tehnika rent TA-23, TAK-23 & TA-22 mentoritena 
 [Tiimid](https://docs.google.com/spreadsheets/d/1fO0Nz-9cRuhbHemO75DV6Avwr_7lXg8RCingxdhx8jk/edit#gid=0)  
+[Prototüüp]()
+Briif
+Tere!
+
+ 
+
+Saadan Excel  tabeli esialgse visuaaliga, mida see peaks sisaldama. Kooli tabelis on osad nimetused suht suvalised ja seerianumbrid puuduvad täielikult, seega ma peaksin ise koostama korrektse tabeli õigete andmetega ja seerianumbritega. Koolil on oma triipkoodid aga need kuluvad tihtipeale kaamerate tiheda kasutuse tõttu pealt ära. Kindlate seerianumbrite alusel saab seadme tuvastada ja tabelis kirja panna, sest need ei kulu maha.
+
+Äpi suhtes mulle tundub, et kogu nimekri võiks olla ühes sakis, kus saan kindlat ehnikat valida ja väljarenditud tehnika nimekiri koos isikuandmetega on värvidega registreeritud. Kui on välja laenutatud, siis roheline, kui päev on käes, siis kollane ja kui on üle läinud, siis punaseks.
+
+Kõiki tehnika vahendeid me ka välja ei rendi, seega need saavad olla eraldi sakis kuskil.
+
+Lugupidamisega,
+
+Anzelika Toll
+
+
 
 ### 4. projekt - Tark tellija Ä-23 & TA-22 
 [Töötasku](https://github.com/Maarma/tootasku)  
