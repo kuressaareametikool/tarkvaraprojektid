@@ -6,7 +6,7 @@
 [Tiimid](https://docs.google.com/spreadsheets/d/1fO0Nz-9cRuhbHemO75DV6Avwr_7lXg8RCingxdhx8jk/edit#gid=0)  
 [Prototüüp](https://github.com/kuressaareametikool/tarkvaraprojektid/tree/master/project-files/2024-05__disainirent)  
 
-## Briif
+**Briif**  
 Tere!
 
 Saadan Excel  tabeli esialgse visuaaliga, mida see peaks sisaldama. Kooli tabelis on osad nimetused suht suvalised ja seerianumbrid puuduvad täielikult, seega ma peaksin ise koostama korrektse tabeli õigete andmetega ja seerianumbritega. Koolil on oma triipkoodid aga need kuluvad tihtipeale kaamerate tiheda kasutuse tõttu pealt ära. Kindlate seerianumbrite alusel saab seadme tuvastada ja tabelis kirja panna, sest need ei kulu maha.
