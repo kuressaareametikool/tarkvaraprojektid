@@ -2,6 +2,9 @@
 
 ## 2022/23
 
+### 5. projekt - Disainisuuna tehnika rent TA-23, TAK-23 & TA-22 mentoritena 
+[Tiimid](https://docs.google.com/spreadsheets/d/1fO0Nz-9cRuhbHemO75DV6Avwr_7lXg8RCingxdhx8jk/edit#gid=0)  
+
 ### 4. projekt - Tark tellija Ä-23 & TA-22 
 [Töötasku](https://github.com/Maarma/tootasku)  
 [Elamusteenused](https://github.com/tenetiitma/Elamuspakett)  
