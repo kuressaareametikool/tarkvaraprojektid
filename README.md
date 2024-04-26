@@ -6,6 +6,12 @@
 [Tiimid](https://docs.google.com/spreadsheets/d/1fO0Nz-9cRuhbHemO75DV6Avwr_7lXg8RCingxdhx8jk/edit#gid=0)  
 [Prototüüp](https://github.com/kuressaareametikool/tarkvaraprojektid/tree/master/project-files/2024-05__disainirent)  
 
+[Grupp E](https://github.com/markheinmets/triipkood/tree/triipkood)  
+[Grupp F](https://github.com/araamat/Londid)  
+[Grupp G](https://github.com/JaanikaT/Design_Equipment_Rent)  
+[Grupp H](https://github.com/mariakallaste/Grupp-H)  
+[Grupp I](https://github.com/mariliis01/disainimajaka-laenutus-rakendus?tab=readme-ov-file)
+
 **Briif**  
 Tere!
 
