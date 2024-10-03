@@ -4,10 +4,15 @@
 
 ### 1. projekt - AI Project 
 
-(Lähteülesanne)[https://github.com/kuressaareametikool/tarkvaraprojektid/blob/master/ai_project/Latest3.0_AI_Project.pdf]
-(Tiimid)[https://kak-my.sharepoint.com/:x:/g/personal/karl_gregor_rauniste_ametikool_ee/ESQBgNDx5ZtIrhJ6XbjzvnUBO3cdtCFC8g73YiZBdBu6mQ]
+[Lähteülesanne](https://github.com/kuressaareametikool/tarkvaraprojektid/blob/master/ai_project/Latest3.0_AI_Project.pdf)  
+[Tiimid](https://kak-my.sharepoint.com/:x:/g/personal/karl_gregor_rauniste_ametikool_ee/ESQBgNDx5ZtIrhJ6XbjzvnUBO3cdtCFC8g73YiZBdBu6mQ)  
 
-[]
+[Machine Learning]()  
+[Fuzzy logic]()  
+[Expert systems]()  
+[Robtics]()  
+[Computer vision]()  
+[Natural language processing]()  
 
 ## 2022/23
 
