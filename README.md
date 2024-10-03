@@ -1,5 +1,14 @@
 # Kuressaare Ametikooli tarkvaraprojektid
 
+## 2023/24
+
+### 1. projekt - AI Project 
+
+(Lähteülesanne)[https://github.com/kuressaareametikool/tarkvaraprojektid/blob/master/ai_project/Latest3.0_AI_Project.pdf]
+(Tiimid)[https://kak-my.sharepoint.com/:x:/g/personal/karl_gregor_rauniste_ametikool_ee/ESQBgNDx5ZtIrhJ6XbjzvnUBO3cdtCFC8g73YiZBdBu6mQ]
+
+[]
+
 ## 2022/23
 
 ### 5. projekt - Disainisuuna tehnika rent TA-23, TAK-23 & TA-22 mentoritena 
