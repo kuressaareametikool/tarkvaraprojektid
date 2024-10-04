@@ -12,7 +12,7 @@
 [Grupp 3]()  
 [Grupp 4]()  
 [Trivia game](https://github.com/RomelloLasn/TriviaGame1)  
-[Grupp 6](https://github.com/MarellePalm/AI-Project)  
+[Trivia game](https://github.com/MarellePalm/AI-Project)  
 
 ## 2022/23
 
