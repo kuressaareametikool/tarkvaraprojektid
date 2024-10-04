@@ -10,7 +10,7 @@
 [Custom File Sharing Platform](https://github.com/markheinmets/AI-projekt/wiki)  
 [Task management](https://github.com/Beeak/task-management-app)  
 [Personal Budget Manager](https://github.com/conjurs/team3)  
-[Grupp 4](https://github.com/JakobVapper/Product-Inventory-System)  
+[E-commerce inverntory system](https://github.com/JakobVapper/e-commerce-product-inventory-system/wiki)  
 [Trivia game](https://github.com/RomelloLasn/TriviaGame1)  
 [Trivia game](https://github.com/MarellePalm/AI-Project)  
 
