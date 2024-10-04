@@ -8,10 +8,10 @@
 [Tiimid](https://kak-my.sharepoint.com/:x:/g/personal/karl_gregor_rauniste_ametikool_ee/ESQBgNDx5ZtIrhJ6XbjzvnUBO3cdtCFC8g73YiZBdBu6mQ)  
 
 [Grupp 1]()  
-[Grupp 2]()  
+[Task management](https://github.com/Beeak/task-management-app)  
 [Grupp 3]()  
 [Grupp 4]()  
-[Grupp 5]()  
+[Trivia game](https://github.com/RomelloLasn/TriviaGame1)  
 [Grupp 6](https://github.com/MarellePalm/AI-Project)  
 
 ## 2022/23
