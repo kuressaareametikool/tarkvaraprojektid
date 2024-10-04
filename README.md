@@ -11,7 +11,7 @@
 [Task management](https://github.com/Beeak/task-management-app) | [wiki](https://github.com/Beeak/task-management-app/wiki)  
 [Personal Budget Manager](https://github.com/conjurs/team3) | [wiki](https://github.com/conjurs/team3/wiki)  
 [E-commerce inverntory system](https://github.com/JakobVapper/e-commerce-product-inventory-system) | [wiki](https://github.com/JakobVapper/e-commerce-product-inventory-system/wiki)  
-[Trivia game](https://github.com/RomelloLasn/TriviaGame1) | [wiki](https://github.com/RomelloLasn/TriviaGame1/wiki)  
+[Trivia game](https://github.com/RemoSpys/TriviaGame) | [wiki](https://github.com/RemoSpys/TriviaGame/wiki)  
 [Expense Splitter](https://github.com/MarellePalm/AI-Project)  
 
 ## 2022/23
