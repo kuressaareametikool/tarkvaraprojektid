@@ -7,12 +7,12 @@
 [Lähteülesanne](https://github.com/kuressaareametikool/tarkvaraprojektid/blob/master/ai_project/Latest3.0_AI_Project.pdf)  
 [Tiimid](https://kak-my.sharepoint.com/:x:/g/personal/karl_gregor_rauniste_ametikool_ee/ESQBgNDx5ZtIrhJ6XbjzvnUBO3cdtCFC8g73YiZBdBu6mQ)  
 
-[Custom File Sharing Platform](https://github.com/markheinmets/AI-projekt) | [wiki](https://github.com/markheinmets/AI-projekt/wiki)  
+[Custom File Sharing Platform](https://github.com/markheinmets/AI-projekt) | [wiki](https://github.com/markheinmets/AI-projekt/wiki/Readme)  
 [Task management](https://github.com/Beeak/task-management-app) | [wiki](https://github.com/Beeak/task-management-app/wiki)  
 [Personal Budget Manager](https://github.com/conjurs/team3) | [wiki](https://github.com/conjurs/team3/wiki)  
 [E-commerce inverntory system](https://github.com/JakobVapper/e-commerce-product-inventory-system) | [wiki](https://github.com/JakobVapper/e-commerce-product-inventory-system/wiki)  
 [Trivia game](https://github.com/RomelloLasn/TriviaGame1) | [wiki](https://github.com/RomelloLasn/TriviaGame1/wiki)  
-[Expense Splitter](https://github.com/MarellePalm/AI-Project) | [wiki](https://github.com/MarellePalm/AI-Project/wiki)  
+[Expense Splitter](https://github.com/MarellePalm/AI-Project)  
 
 ## 2022/23
 
