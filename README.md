@@ -7,12 +7,12 @@
 [Lähteülesanne](https://github.com/kuressaareametikool/tarkvaraprojektid/blob/master/ai_project/Latest3.0_AI_Project.pdf)  
 [Tiimid](https://kak-my.sharepoint.com/:x:/g/personal/karl_gregor_rauniste_ametikool_ee/ESQBgNDx5ZtIrhJ6XbjzvnUBO3cdtCFC8g73YiZBdBu6mQ)  
 
-[Machine Learning]()  
-[Fuzzy logic]()  
-[Expert systems]()  
-[Robtics]()  
-[Computer vision]()  
-[Natural language processing]()  
+[Grupp 1]()  
+[Grupp 2]()  
+[Grupp 3]()  
+[Grupp 4]()  
+[Grupp 5]()  
+[Grupp 6](https://github.com/MarellePalm/AI-Project)  
 
 ## 2022/23
 
