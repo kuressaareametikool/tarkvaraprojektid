@@ -7,10 +7,10 @@
 [Lähteülesanne](https://github.com/kuressaareametikool/tarkvaraprojektid/blob/master/ai_project/Latest3.0_AI_Project.pdf)  
 [Tiimid](https://kak-my.sharepoint.com/:x:/g/personal/karl_gregor_rauniste_ametikool_ee/ESQBgNDx5ZtIrhJ6XbjzvnUBO3cdtCFC8g73YiZBdBu6mQ)  
 
-[Grupp 1]()  
+[Custom File Sharing Platform](https://github.com/markheinmets/AI-projekt/wiki)  
 [Task management](https://github.com/Beeak/task-management-app)  
 [Personal Budget Manager](https://github.com/conjurs/team3)  
-[Grupp 4]()  
+[Grupp 4](https://github.com/JakobVapper/Product-Inventory-System)  
 [Trivia game](https://github.com/RomelloLasn/TriviaGame1)  
 [Trivia game](https://github.com/MarellePalm/AI-Project)  
 
