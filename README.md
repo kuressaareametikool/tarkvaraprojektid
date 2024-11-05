@@ -1,6 +1,6 @@
 # Kuressaare Ametikooli tarkvaraprojektid
 
-## 2023/24
+## 2024/25
 
 ### 1. projekt - AI Project 
 
@@ -14,7 +14,7 @@
 [Trivia game](https://github.com/RemoSpys/TriviaGame) | [wiki](https://github.com/RemoSpys/TriviaGame/wiki)  
 [Expense Splitter](https://github.com/MarellePalm/AI-Project)  
 
-## 2022/23
+## 2023/24
 
 ### 5. projekt - Disainisuuna tehnika rent TA-23, TAK-23 & TA-22 mentoritena 
 [Tiimid](https://docs.google.com/spreadsheets/d/1fO0Nz-9cRuhbHemO75DV6Avwr_7lXg8RCingxdhx8jk/edit#gid=0)  
