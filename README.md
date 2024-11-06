@@ -8,7 +8,7 @@
 [Metallica](https://github.com/JakobVapper/Metallica-Website)  
 [Terminaator](https://github.com/RomelloLasn/project-terminaator)  
 [Queen](https://github.com/conjurs/queenband)  
-[bänd1](https://github.com/LiisaKaju/Projekt2)  
+[Imagine Dragons](https://github.com/LiisaKaju/Projekt2)  
 [bänd2](https://github.com/mardomai/bandiveebileht)
  
 
