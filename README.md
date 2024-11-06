@@ -6,6 +6,8 @@
 [Tiimid](https://docs.google.com/spreadsheets/d/1nLCivGa78wR1eoB6BdLHmtEgY4_1dCK_6t5WHL1znI4/edit?gid=0#gid=0)  
 
 [Metallica](https://github.com/JakobVapper/Metallica-Website)  
+[Terminaator](https://github.com/RomelloLasn/project-terminaator)  
+[Queen](https://github.com/conjurs/queenband)  
 [bänd1](https://github.com/LiisaKaju/Projekt2)  
 [bänd2](https://github.com/mardomai/bandiveebileht)
  
