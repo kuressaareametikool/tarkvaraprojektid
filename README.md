@@ -5,6 +5,7 @@
 ### 2. projekt - Bändiveeb [Wiki](https://github.com/kuressaareametikool/tarkvaraprojektid/wiki/2024%E2%88%9525-PROJEKT-nr-2-%E2%80%90-B%C3%A4ndiveeb)  
 [Tiimid](https://docs.google.com/spreadsheets/d/1nLCivGa78wR1eoB6BdLHmtEgY4_1dCK_6t5WHL1znI4/edit?gid=0#gid=0)  
 
+[Metallica](https://github.com/JakobVapper/Metallica-Website)  
 [bänd1](https://github.com/LiisaKaju/Projekt2)  
 [bänd2](https://github.com/mardomai/bandiveebileht)
  
