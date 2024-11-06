@@ -2,6 +2,10 @@
 
 ## 2024/25
 
+### 2. projekt - Bändiveeb [Wiki](https://github.com/kuressaareametikool/tarkvaraprojektid/wiki/2024%E2%88%9525-PROJEKT-nr-2-%E2%80%90-B%C3%A4ndiveeb) 
+
+ 
+
 ### 1. projekt - AI Project 
 
 [Lähteülesanne](https://github.com/kuressaareametikool/tarkvaraprojektid/blob/master/ai_project/Latest3.0_AI_Project.pdf)  
