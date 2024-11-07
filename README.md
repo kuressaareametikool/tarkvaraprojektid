@@ -9,7 +9,7 @@
 [Terminaator](https://github.com/RomelloLasn/project-terminaator)  
 [Queen](https://github.com/conjurs/queenband)  
 [Imagine Dragons](https://github.com/LiisaKaju/Projekt2)  
-[bänd2](https://github.com/mardomai/bandiveebileht)
+[Linkin Park](https://github.com/mardomai/bandiveebileht)
  
 
 ### 1. projekt - AI Project 
