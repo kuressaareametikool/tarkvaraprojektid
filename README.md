@@ -10,7 +10,7 @@
 [Queen](https://github.com/conjurs/queenband)  
 [Imagine Dragons](https://github.com/LiisaKaju/Projekt2)  
 [Linkin Park](https://github.com/mardomai/bandiveebileht)  
-[bänd](https://github.com/Joosepi/Bandileht)
+[System of a Down](https://github.com/Joosepi/Bandileht)  
 [Måneskin](https://github.com/RSAnvelt/b-ndi-leht-projekt1-)
  
 
