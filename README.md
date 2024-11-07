@@ -11,7 +11,8 @@
 [Imagine Dragons](https://github.com/LiisaKaju/Projekt2)  
 [Linkin Park](https://github.com/mardomai/bandiveebileht)  
 [System of a Down](https://github.com/Joosepi/Bandileht)  
-[Måneskin](https://github.com/RSAnvelt/b-ndi-leht-projekt1-)
+[Måneskin](https://github.com/RSAnvelt/b-ndi-leht-projekt1-)  
+[Kukerpillid](https://github.com/elerikp/Kukerpillid)
  
 
 ### 1. projekt - AI Project 
