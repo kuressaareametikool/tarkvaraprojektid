@@ -2,6 +2,14 @@
 
 ## 2024/25
 
+### 3. projekt - Tuturutuu-tutu-tuu! First Lego League! 🤖
+[Tulemused](https://docs.google.com/spreadsheets/d/1icXwVn7jjmoprWap8Z5P2wLr-LYWjRsp5QjdK_THOpw/preview?gid=26925434#gid=26925434)  
+[FLL Eesti](https://www.firstlegoleague.ee/challenge/hooajad/2024-2025-submerged/)  
+#### Tarkvara
+* LEGO Education SPIKE Prime [online](https://spike.legoeducation.com/prime/lobby/)
+* EV3 Classroom App [download](https://education.lego.com/en-us/downloads/mindstorms-ev3/software/)
+* NXT Software [download](https://education.lego.com/en-us/downloads/retiredproducts/nxt/software/)
+
 ### 2. projekt - Bändiveeb [Wiki](https://github.com/kuressaareametikool/tarkvaraprojektid/wiki/2024%E2%88%9525-PROJEKT-nr-2-%E2%80%90-B%C3%A4ndiveeb)  
 [Tiimid](https://docs.google.com/spreadsheets/d/1nLCivGa78wR1eoB6BdLHmtEgY4_1dCK_6t5WHL1znI4/edit?gid=0#gid=0)  
 
