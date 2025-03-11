@@ -2,8 +2,8 @@
 
 ## 2024/25
 
-### 4. projekt - Lõputööde dokumenteerimine [Wiki]()  
-[Tiimid]()  
+### 4. projekt - Lõputööde dokumenteerimine [Wiki](https://github.com/kuressaareametikool/tarkvaraprojektid/wiki/2024%E2%88%9525-PROJEKT-nr-4-%E2%80%90-L%C3%B5put%C3%B6%C3%B6de-dokumenteerimine)  
+[Tiimid](https://docs.google.com/spreadsheets/d/134Rxi7lIe6-lomHZNVNXYDGaggdf42NvoWQrClpumkE/edit?usp=sharing)  
 
 ### 3. projekt - Tuturutuu-tutu-tuu! First Lego League! 🤖
 [Tulemused](https://docs.google.com/spreadsheets/d/1icXwVn7jjmoprWap8Z5P2wLr-LYWjRsp5QjdK_THOpw/preview?gid=26925434#gid=26925434)  
